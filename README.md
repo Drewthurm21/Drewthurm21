@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋  My name is Drew
 
 [![Drew's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drewthurm21&theme=tokyonight)](https://github.com/Drewthurm21/github-readme-stats)
 
@@ -13,8 +13,8 @@
 > <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 
 
-- 🔭 I’m currently working on LFG: https://github.com/Drewthurm21/LookingForGroup
-- 🌱 I’m currently learning more about Python, Flask, Alembic & SQLAlchemy
+- 🔭 I’m currently working on LFG: https://github.com/Drewthurm21/LookingForGroup or little-john: 
+- 🌱 I’m currently learning more Python, Flask & SQLAlchemy
 
 - 💬 Ask me anything!
 - 📫 How to reach me: drewthurmcodes@gmail.com
