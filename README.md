@@ -16,7 +16,11 @@
 > <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 
 ### What I'm working on
-- I’m currently working on LFG: https://github.com/Drewthurm21/LookingForGroup or little-john: 
+- I’m currently working on:
+    -   LFG: https://github.com/Drewthurm21/LookingForGroup 
+    -   artGal: https://github.com/Drewthurm21/artGallery
+
+
 - I’m currently learning more Python, Flask & SQLAlchemy
 
 
