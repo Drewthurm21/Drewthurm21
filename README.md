@@ -3,7 +3,7 @@
 <br />
 
 ## Hi there 👋  I'm Drew.
-I'm a business manager turned full-stack software engineer who's passionate about leveraging technology to solve real world problems & address client needs.
+I'm a business manager turned full-stack software engineer and instructor. I'm passionate about leveraging technology to solve real world problems & address client needs.
 
 
 ### Things I use every day
@@ -31,4 +31,4 @@ I'm a business manager turned full-stack software engineer who's passionate abou
     -   artGal: https://github.com/Drewthurm21/artGallery (mobile)
     - I’m currently learning more about SMS Automation
 - 💬 Ask me anything!
-- 📫 How to reach me: drewthurmcodes@gmail.com
+- 📫 How to reach me: athurman@appacademy.io
