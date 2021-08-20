@@ -27,8 +27,11 @@ I'm a business manager turned full-stack software engineer and instructor. I'm p
 
 ### What I'm working on
 - I’m currently working on:
-    -   LFG: https://github.com/Drewthurm21/LookingForGroup 
-    -   artGal: https://github.com/Drewthurm21/artGallery (mobile)
-    - I’m currently learning more about SMS Automation
+    -   LittleJohn: https://github.com/Drewthurm21/LookingForGroup 
+    -   artGal: https://github.com/Drewthurm21/artGallery (mobile design)
+    -   I’m currently learning more about GoogleApps Scripting.
+    
+<br />
+
 - 💬 Ask me anything!
 - 📫 How to reach me: athurman@appacademy.io
