@@ -34,4 +34,4 @@ I'm a business manager turned full-stack software engineer and instructor. I'm p
 <br />
 
 - 💬 Ask me anything!
-- 📫 How to reach me: athurman@appacademy.io
+- 📫 => athurman@appacademy.io
