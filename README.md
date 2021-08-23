@@ -27,7 +27,7 @@ I'm a business manager turned full-stack software engineer and instructor. I'm p
 
 ### What I'm working on
 - I’m currently working on:
-    -   Creating internal tools for <a href='https://cottagecare.com/' target='_blank'>Cottage Care</a>. 
+    -   Creating internal tools for <a href="https://cottagecare.com/" target="_blank" rel="noreferrer noopener">Cottage Care</a>. 
     -   Learning more about GoogleApps scripting.
     
 <br />
