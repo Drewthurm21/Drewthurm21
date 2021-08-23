@@ -27,9 +27,8 @@ I'm a business manager turned full-stack software engineer and instructor. I'm p
 
 ### What I'm working on
 - I’m currently working on:
-    -   LittleJohn: https://github.com/Drewthurm21/LookingForGroup 
-    -   artGal: https://github.com/Drewthurm21/artGallery (mobile design)
-    -   I’m currently learning more about GoogleApps Scripting.
+    -   Creating internal tools for <a href='https://cottagecare.com/' target='_blank'>Cottage Care</a>. 
+    -   Learning more about GoogleApps scripting.
     
 <br />
 
