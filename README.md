@@ -1,4 +1,4 @@
-[![Drew's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drewthurm21&counnt_private=true&theme=tokyonight)](https://github.com/Drewthurm21/github-readme-stats)
+[![Drew's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drewthurm21&count_private=true&theme=tokyonight)](https://github.com/Drewthurm21/github-readme-stats)
 
 <br />
 
