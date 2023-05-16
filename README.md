@@ -3,7 +3,7 @@
 <br />
 
 ## Hi there 👋  I'm Drew.
-I'm a business manager turned full-stack software engineer and instructor. I'm passionate about leveraging technology to solve real world problems & address client needs.
+I'm a software engineer and SWE instructor. I'm passionate about leveraging technology to solve real world problems!
 
 
 ### Things I use every day
@@ -27,8 +27,8 @@ I'm a business manager turned full-stack software engineer and instructor. I'm p
 
 ### What I'm working on
   -   Creating web applications for <a href="https://cottagecare.com/" target="_blank" rel="noreferrer noopener">Cottage Care</a>. 
-  -   Learning more about the ActiveCampaign api.
-  -   Honing my React / Redux skillsets
+  -   Learning more about the ChatGPT api.
+  -   Building a personal project called <a href="https://littlejohn-oqy7.onrender.com/" target="_blank" rel="noreferrer noopener">LittleJohn</a>
 
 <br />
 
