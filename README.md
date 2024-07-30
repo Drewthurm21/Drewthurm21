@@ -26,9 +26,9 @@ I'm a software engineer and SWE instructor. I'm passionate about leveraging tech
 <br />
 
 ### What I'm working on
-  -   Creating web applications for <a href="https://cottagecare.com/" target="_blank" rel="noreferrer noopener">Cottage Care</a>. 
+  -   Building tools and web apps at <a href="https://cottagecare.com/" target="_blank" rel="noreferrer noopener">Advisors Excel</a>. 
   -   Building a personal project called <a href="https://sortedapp.vercel.app/" target="_blank" rel="noreferrer noopener">Sorted_</a>
-  -   Learning more about the ChatGPT api & Stable Diffusion.
+  -   Learning more about Microservice architecture & deployment strategies
 
 <br />
 
